@@ -105,6 +105,11 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+
+}
+.social-media-list {
+    position: relative;
+    float: right;
 }
 
 .footer-col-wrapper {
@@ -155,6 +160,7 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
 
 
 

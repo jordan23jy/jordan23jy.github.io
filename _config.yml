@@ -2,7 +2,7 @@
 title: Jordan's Blog
 email: contact@jordanyong.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jordanyong.com" # the base hostname & protocol for your site
+url: "http://blog.jordanyong.com" # the base hostname & protocol for your site
 twitter_username: jordanyong23
 github_username:  jordan23jy
 linkedin_username: jordanyong
