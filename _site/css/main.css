@@ -459,6 +459,9 @@ pre {
   transition: opacity .5s ease;
   opacity: 0.6; }
 
+.project {
+  padding-bottom: 2em; }
+
 body {
   color: #34495e;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -893,7 +896,7 @@ button:active {
 .projects-4 .projects .info {
   font-size: 13px;
   color: #95a5a6;
-  margin-top: 27px; }
+  margin-top: 15px; }
 
 .projects-4 .projects .info b {
   color: #7f8c8d; }
@@ -903,35 +906,12 @@ button:active {
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 5px;
-  display: block; }
+  display: block;
+  text-align: center; }
 
-.projects-4 .projects .name.color-pomegranate:hover,
-.projects-4 .projects .name.color-pomegranate.hover {
-  color: #c0392b;
-  -webkit-transition: color 0.4s;
-  -moz-transition: color 0.4s;
-  -o-transition: color 0.4s;
-  transition: color 0.4s; }
-
-.projects-4 .projects .name.color-orange:hover,
-.projects-4 .projects .name.color-orange.hover {
-  color: #f39c12;
-  -webkit-transition: color 0.4s;
-  -moz-transition: color 0.4s;
-  -o-transition: color 0.4s;
-  transition: color 0.4s; }
-
-.projects-4 .projects .name.color-belize-hole:hover,
-.projects-4 .projects .name.color-belize-hole.hover {
-  color: #2980b9;
-  -webkit-transition: color 0.4s;
-  -moz-transition: color 0.4s;
-  -o-transition: color 0.4s;
-  transition: color 0.4s; }
-
-.projects-4 .projects .name.color-green-sea:hover,
-.projects-4 .projects .name.color-green-sea.hover {
-  color: #16a085;
+.projects-4 .projects .name.color-asbestos:hover,
+.projects-4 .projects .name.color-asbestos.hover {
+  color: #95a5a6;
   -webkit-transition: color 0.4s;
   -moz-transition: color 0.4s;
   -o-transition: color 0.4s;
