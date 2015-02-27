@@ -445,12 +445,15 @@ button:active {
   height: 100%;
   left: 0;
   top: 0;
-  text-align: center;
   color: #fff;
-  line-height: 145px;
+  text-align: center;
 }
-.projects-4 .projects .overlay [class*="fui-"] {
-  font-size: 46px;
+.projects-4 .projects .overlay .project-name {
+  font-size: 14px;
+  word-wrap: break-word;
+  padding-top: 50px;
+  display: block;
+  margin: 10px;
 }
 .projects-4 .projects .info {
   // text-align: left;
@@ -468,6 +471,7 @@ button:active {
   margin-bottom: 5px;
   display: block;
   text-align: center;
+
 }
 .projects-4 .projects .name.color-asbestos:hover,
 .projects-4 .projects .name.color-asbestos.hover {
@@ -482,11 +486,6 @@ button:active {
   filter: alpha(opacity=4000);
   opacity: 0.4;
   filter: alpha(opacity=40);
-}
-@media (max-width: 767px) {
-  .projects-4 .projects .project-wrapper + .project-wrapper {
-    margin-top: 80px;
-  }
 }
 
 
